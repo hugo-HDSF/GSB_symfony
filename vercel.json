@@ -4,11 +4,6 @@
       "PHP_VERSION": "8.1"
     }
   },
-  "functions": {
-    "api/**/*.php": {
-      "runtime": "vercel/php@0.2.0"
-    }
-  },
   "routes": [
     { "src": "/login", "dest": "/login" },
     { "src": "/index\\.php", "dest": "/index.php" },
