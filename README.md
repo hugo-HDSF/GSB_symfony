@@ -178,12 +178,8 @@ Distributed under the MIT License.
 ## Acknowledgements
 
 * [Lycée Louis Armand](https://www.larmand.fr/)
-* [JetBrains](https://www.jetbrains.com/)
-* [OpenClassrooms](https://openclassrooms.com/)
-* [StackOverflow](https://stackoverflow.com/)
-* [Symfony](https://symfony.com/)
-* [Bulma](https://bulma.io/)
-* [Twig](https://twig.symfony.com/)
-* [Font Awesome](https://fontawesome.com/)
+* [Img Shields](https://shields.io/)
+* [Simple Icons](https://simpleicons.org/)
+* [Readme Generator](https://readme.shaankhan.dev/)
 
 ###### _Study Project | (HND) 2021-2022_
