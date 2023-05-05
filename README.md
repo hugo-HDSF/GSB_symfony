@@ -178,6 +178,7 @@ Distributed under the MIT License.
 ## Acknowledgements
 
 * [Lycée Louis Armand](https://www.larmand.fr/)
+* [JetBrains](https://www.jetbrains.com/)
 * [OpenClassrooms](https://openclassrooms.com/)
 * [StackOverflow](https://stackoverflow.com/)
 * [Symfony](https://symfony.com/)
