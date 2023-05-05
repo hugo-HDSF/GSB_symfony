@@ -10,7 +10,7 @@
     }
   },
   "routes": [
-    { "src": "/login", "dest": "http://localhost:8000/login" },
+    { "src": "/login", "dest": "/login" },
     { "src": "/index\\.php", "dest": "/index.php" },
     { "src": "/(.*)", "dest": "/index.php" }
   ]
