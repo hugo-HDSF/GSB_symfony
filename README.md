@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
   <a>
     <img src="public/images/logo-icon.png" alt="Logo" width="80" >
