@@ -1,1 +1,2 @@
-<div>Hello world ehehe !</div>
+<?php
+phpinfo();
