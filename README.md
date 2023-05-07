@@ -3,16 +3,18 @@
   <a>
     <img src="public/images/logo-icon.png" alt="Logo" width="80" >
   </a>
-<h3 align="center">Galaxy Swiss Bourdin Symfony</h3>
+</p>
+
+<h1 align="center">Galaxy Swiss Bourdin <a href="https://symfony.com/">Symfony</a></h1>
+
+<p align="center">
   <p align="center">
-    <p align="center">
-        GSB is a web App using Symfony framework and depending on twig template. This App is a expense management App for medical field professionals.
-    </p> 
-    <p align="center">
-      <a href="https://github.com/hugo-HDSF/GSB_symfony/docs/videos/blob/master/exemple.gif"><strong>View Exemple »</strong></a>
-      .
-      <a href="https://github.com/hugo-HDSF/GSB_symfony/issues">Report Bug</a>
-    </p>
+      GSB is a web App using Symfony framework and depending on twig template. This App is a expense management App for medical field professionals.
+  </p> 
+  <p align="center">
+    <a href="https://github.com/hugo-HDSF/GSB_symfony/docs/videos/blob/master/exemple.gif"><strong>View Exemple »</strong></a>
+    .
+    <a href="https://github.com/hugo-HDSF/GSB_symfony/issues">Report Bug</a>
   </p>
 </p>
 
@@ -37,6 +39,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 </div>
+
+-----
 
 ## Table Of Contents
 
