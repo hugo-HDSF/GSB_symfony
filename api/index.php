@@ -1,2 +1,2 @@
-<?php
-phpinfo();
+<button>Hello wolrd !</button>
+```
