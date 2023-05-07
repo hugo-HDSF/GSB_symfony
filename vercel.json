@@ -1,12 +1,18 @@
 {
-  "build": {
-    "env": {
-      "PHP_VERSION": "8.1"
+  "version": 2,
+  "builds": [
+    {
+      "src": "public/index.php",
+      "use": "@vercel/php",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
     }
-  },
+  ],
   "routes": [
-    { "src": "/login", "dest": "/login" },
-    { "src": "/index\\.php", "dest": "/index.php" },
-    { "src": "/(.*)", "dest": "/index.php" }
+    {
+      "src": "/(.*)",
+      "dest": "public/index.php"
+    }
   ]
 }
