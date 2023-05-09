@@ -24,7 +24,6 @@
 ![PHP](https://img.shields.io/badge/-PHP_8.1-777BB4?logo=php&logoColor=white)
 ![Doctrine](https://img.shields.io/badge/-Doctrine_2.7-F05032?logo=doctrine&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL_5.7-4479A1?logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?logo=phpstorm&logoColor=white)
 </div>
 
