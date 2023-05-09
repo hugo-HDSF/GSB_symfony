@@ -77,8 +77,6 @@ This App is an Expense management application for medical professionals. It allo
 * [Font Awesome](https://fontawesome.com/)
 * [Doctrine](https://www.doctrine-project.org/)
 * [MySQL](https://www.mysql.com/fr/)
-* [GitHub](https://www.github.com/)
-* [PhpStorm](https://www.jetbrains.com/fr-fr/phpstorm/)
 
 ## Getting Started
 
