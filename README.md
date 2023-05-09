@@ -168,7 +168,7 @@ symfony server:start
 
 ## Roadmap
 
-Check list of known [open issues](https://github.com/hugo-HDSF/public_transports_paris_idf/issues).
+Check list of known [open issues](https://github.com/hugo-HDSF/GSB_symfony/issues).
 
 ## License
 
