@@ -19,8 +19,9 @@
 
 <div align="center">
 
-![Composer](https://img.shields.io/badge/-Composer_1.11-885630?logo=composer&logoColor=white)
 ![Symfony](https://img.shields.io/badge/-Symfony_4.4-000000?logo=symfony&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer_1.11-885630?logo=composer&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP_8.1-777BB4?logo=php&logoColor=white)
 ![Doctrine](https://img.shields.io/badge/-Doctrine_2.7-F05032?logo=doctrine&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL_5.7-4479A1?logo=mysql&logoColor=white)
