@@ -8,7 +8,7 @@
 
 <p align="center">
   <p align="center">
-      GSB is a web App using Symfony framework and depending on twig template. This App is a expense management App for medical field professionals.
+      GSB is a web App using Symfony framework and depending on twig template. This App is an expense management App for medical field professionals.
   </p> 
   <p align="center">
     <a href="https://github.com/hugo-HDSF/GSB_symfony/assets/videos/blob/master/exemple.gif"><strong>View Exemple »</strong></a>
