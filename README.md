@@ -108,6 +108,7 @@ cp .env.dist .env
 
 - functional database listening on 3306 port is needed. we recommend you to install MariaDB 10.5.12 or MySQL 5.7.33.
 
+> **Note**
 > MariaDB provieds a full installation [guide](https://mariadb.com/kb/en/getting-installing-and-upgrading-mariadb/) throught their website.
 
 ------
@@ -161,6 +162,7 @@ symfony server:start
 
 #### 6. Open your browser and navigate to https://localhost:8000
 
+> **Warning**
 > credentials are necessary to connect, you can find credentials profils [here](db/gsb_peupler.sql).
 
 ## Roadmap
