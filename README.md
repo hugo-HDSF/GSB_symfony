@@ -31,9 +31,9 @@
 
 ![Twig](https://img.shields.io/badge/-Twig_3.0-bfcf28?logo=twig&logoColor=black)
 ![Bulma](https://img.shields.io/badge/-Bulma_0.9.3-00D1B2?logo=bulma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/-JQuery_3.5.1-0769AD?logo=jquery&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/-FontAwesome-528DD7?logo=FontAwesome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 </div>
