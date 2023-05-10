@@ -71,6 +71,7 @@ This App is an Expense management application for medical professionals. It allo
 
 * [Symfony](https://symfony.com/)
 * [Composer](https://getcomposer.org/)
+* [NPM](https://www.npmjs.com/)
 * [Bulma](https://bulma.io/)
 * [Twig](https://twig.symfony.com/)
 * [JQuery](https://jquery.com/)
