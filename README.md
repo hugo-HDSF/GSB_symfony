@@ -14,6 +14,8 @@
     <a href="https://github.com/hugo-HDSF/GSB_symfony/blob/main/assets/videos/exemple.gif"><strong>View Exemple »</strong></a>
     .
     <a href="https://github.com/hugo-HDSF/GSB_symfony/issues">Report Bug</a>
+    .
+    <img src="https://img.shields.io/github/license/ucan-lab/docker-laravel" alt="License" height="15">
   </p>
 </p>
 
@@ -89,6 +91,7 @@ To get a local copy up and running, follow these simple steps:
 
 ```Shell
 git clone https://github.com/hugo-HDSF/GSB_symfony.git
+cd GSB_symfony
 ```
 
 #### 2. Install dependencies
