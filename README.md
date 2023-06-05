@@ -15,7 +15,7 @@
     .
     <a href="https://github.com/hugo-HDSF/GSB_symfony/issues">Report Bug</a>
     .
-    <img src="https://img.shields.io/github/license/ucan-lab/docker-laravel" alt="License" height="15">
+    <img src="https://img.shields.io/github/license/hugo-HDSF/GSB_symfony" alt="License" height="15">
   </p>
 </p>
 
